@@ -1,0 +1,20 @@
+{
+    "name": "GroupSorting",
+    "version": "1.0.1",
+    "title": "Group Sorting",
+    "author": "AidenCharming",
+    "email": "",
+    "homepage": "",
+    "contact": "",
+    "description": "Custom group sorting.",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1.0",
+        "? bobinserters",
+        "? boblogistics",
+        "? beltlayer",
+        "? space-exploration-postprocess",
+        "? Krastorio2",
+        "? Krastorio2Assets"
+    ]
+}
